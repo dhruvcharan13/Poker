@@ -1,5 +1,7 @@
 # Poker Probability Calculator
 
+<img width="1440" alt="Screenshot 2025-03-19 at 10 43 55 PM" src="https://github.com/user-attachments/assets/2d339bf4-f139-4133-8e01-791e64a5677b" />
+
 A web application that calculates the probabilities of different poker hands based on your current cards and the community cards.
 
 ## Features
@@ -7,8 +9,11 @@ A web application that calculates the probabilities of different poker hands bas
 - Select your two hole cards
 - Select community cards (flop, turn, river)
 - Real-time probability calculations
+  <img width="1440" alt="Screenshot 2025-03-19 at 10 44 24 PM" src="https://github.com/user-attachments/assets/6e8e16c6-0e99-4a49-aa4a-f6630bff9dc1" />
+
 - Dark/Light mode support
 - Responsive design
+  <img width="1440" alt="Screenshot 2025-03-19 at 10 45 09 PM" src="https://github.com/user-attachments/assets/79aa89cd-d8b9-43d8-b1fd-571d62f81078" />
 
 ## Tech Stack
 
