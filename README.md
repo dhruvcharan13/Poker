@@ -9,12 +9,15 @@ A web application that calculates the probabilities of different poker hands bas
 - Select your two hole cards
 - Select community cards (flop, turn, river)
 - Real-time probability calculations
-  <img width="1440" alt="Screenshot 2025-03-19 at 10 44 24 PM" src="https://github.com/user-attachments/assets/6e8e16c6-0e99-4a49-aa4a-f6630bff9dc1" />
+  
+  <img width="1000" alt="Screenshot 2025-03-19 at 10 44 24 PM" src="https://github.com/user-attachments/assets/6e8e16c6-0e99-4a49-aa4a-f6630bff9dc1" />
 
 - Dark/Light mode support
-- Responsive design
-  <img width="1440" alt="Screenshot 2025-03-19 at 10 45 09 PM" src="https://github.com/user-attachments/assets/79aa89cd-d8b9-43d8-b1fd-571d62f81078" />
 
+  <img width="1000" alt="Screenshot 2025-03-19 at 10 45 09 PM" src="https://github.com/user-attachments/assets/79aa89cd-d8b9-43d8-b1fd-571d62f81078" />
+
+- Responsive design
+  
 ## Tech Stack
 
 - Frontend: Next.js, TypeScript, Tailwind CSS, Shadcn UI
